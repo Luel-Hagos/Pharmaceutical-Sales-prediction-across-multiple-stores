@@ -1,0 +1,15 @@
+artifact_uri: file:///home/doit/Pictures/10Academy/week3/mlflow/mlruns/0/15ba12be6ac6425d8dbbe7415df10356/artifacts
+end_time: 1627894960579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 15ba12be6ac6425d8dbbe7415df10356
+run_uuid: 15ba12be6ac6425d8dbbe7415df10356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627894959587
+status: 3
+tags: []
+user_id: doit
